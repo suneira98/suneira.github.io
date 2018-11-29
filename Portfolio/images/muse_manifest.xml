@@ -1,0 +1,225 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Myportfolio.com" resolutions="1x" timestamp="1543413986676">
+  <folder name="css">
+    <file name="site_global.css" crc="27863208"/>
+    <file name="portfolio.css" crc="4283611423" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="444015741" ref="portfolio"/>
+    <file name="iefonts_portfolio.css" crc="4116031875" ref="portfolio"/>
+    <file name="about.css" crc="3785098590" ref="about"/>
+    <file name="nomq_about.css" crc="485657052" ref="about"/>
+    <file name="contact.css" crc="4270522126" ref="contact"/>
+    <file name="nomq_contact.css" crc="520292086" ref="contact"/>
+    <file name="index.css" crc="448419521" ref="index"/>
+    <file name="nomq_index.css" crc="4111670398" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="golden_nebula_4k_motion_background.mp4" crc="47697597" seo="true" mt="1542949100000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:portfolio:contact"/>
+    <file name="museutils.js" crc="340535759" ref="index:about:portfolio:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:portfolio:contact"/>
+    <file name="museconfig.js" crc="310584261" ref="index:about:portfolio:contact"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:about:portfolio:contact"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:about:portfolio:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:portfolio:contact"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:about:portfolio:contact"/>
+    <file name="require.js" crc="7928878" ref="index:about:portfolio:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="portfolio"/>
+    <file name="webpro.js" crc="4059564322" ref="portfolio"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="portfolio"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="portfolio"/>
+    <file name="touchswipe.js" crc="4075097462" ref="portfolio"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted-svg-438794x173.svg" crc="405763111" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="pasted svg 438794x173_poster_.png" crc="158182684" ref="about"/>
+    <file name="pasted-svg-174747x176.svg" crc="375862996" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="pasted svg 174747x176_poster_.png" crc="66502413" ref="about"/>
+    <file name="profile.jpg" crc="4123778831" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="profile237x353.jpg" crc="3944504166" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="profile166x247.jpg" crc="34671963" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="profile-crop-u3276.jpg" crc="221195675" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="about:portfolio:contact"/>
+    <file name="1a2f55660921955b0aceea854a1-1-.jpg" crc="386786655" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="1a2f55660921955b0aceea854a1-1--u670-r-fr.png" crc="4117533835" ref="portfolio"/>
+    <file name="363cc0660897995b0ab9d5ec889-1--u742-fr.jpg" crc="3892486207" ref="portfolio"/>
+    <file name="363cc0660897995b0ab9d5ec889-1--u735-fr.jpg" crc="4273011146" ref="portfolio"/>
+    <file name="363cc0660897995b0ab9d5ec889-1--u735-r-fr.png" crc="3828356433" ref="portfolio"/>
+    <file name="460ef0660915035b0ac8c72c679-1--u767-fr.png" crc="121748822" ref="portfolio"/>
+    <file name="460ef0660915035b0ac8c72c679-1--u773-fr.png" crc="3768423242" ref="portfolio"/>
+    <file name="460ef0660915035b0ac8c72c679-1--u773-r-fr.png" crc="3758973016" ref="portfolio"/>
+    <file name="948d6f660921955b0aceea8b38e-1--u786-fr.jpg" crc="3926836700" ref="portfolio"/>
+    <file name="948d6f660921955b0aceea8b38e-1--u786-r-fr.png" crc="110135841" ref="portfolio"/>
+    <file name="948d6f660921955b0aceea8b38e-1-.jpg" crc="4209842128" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="3fed39660921955b0aceea8c6ca-1--u726-fr.jpg" crc="3926428980" ref="portfolio"/>
+    <file name="3fed39660921955b0aceea8c6ca-1--u726-r-fr.png" crc="288178267" ref="portfolio"/>
+    <file name="3fed39660921955b0aceea8c6ca-1-.jpg" crc="428156121" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="009365660907155b0ac12868d62-1--u685-fr.png" crc="454816219" ref="portfolio"/>
+    <file name="009365660907155b0ac12868d62-1--u685-r-fr.png" crc="143036328" ref="portfolio"/>
+    <file name="009365660907155b0ac12868d62-1-.png" crc="435591693" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="f03d10660915035b0ac8c72d2e8-1--u705-fr.png" crc="95877749" ref="portfolio"/>
+    <file name="f03d10660915035b0ac8c72d2e8-1--u705-r-fr.png" crc="3954976339" ref="portfolio"/>
+    <file name="f03d10660915035b0ac8c72d2e8-1-.png" crc="18814803" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="2be2c7660894095b0ab60cd8920-1--u757-fr.png" crc="423650289" ref="portfolio"/>
+    <file name="6d80ed660897995b0ab9d5ea9cc-1--u762-fr.jpg" crc="3779361031" ref="portfolio"/>
+    <file name="6d80ed660897995b0ab9d5ea9cc-1--u762-r-fr.png" crc="3864083626" ref="portfolio"/>
+    <file name="2be2c7660894095b0ab60cd8920-1--u700-fr.png" crc="3973701333" ref="portfolio"/>
+    <file name="2be2c7660894095b0ab60cd8920-1--u700-r-fr.png" crc="3839404350" ref="portfolio"/>
+    <file name="6d80ed660897995b0ab9d5ea9cc-1-.jpg" crc="3832310153" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="363cc0660897995b0ab9d5ec889-1-.jpg" crc="207589262" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="460ef0660915035b0ac8c72c679-1-.png" crc="385229297" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="3fed39660921955b0aceea8c6ca-1--u726-fr2.jpg" crc="4239091726" ref="portfolio"/>
+    <file name="3fed39660921955b0aceea8c6ca-1--u726-r-fr2.png" crc="461704645" ref="portfolio"/>
+    <file name="2be2c7660894095b0ab60cd8920-1--u757-fr2.png" crc="3935173850" ref="portfolio"/>
+    <file name="1a2f55660921955b0aceea854a1-1--u670-fr.jpg" crc="4086394862" ref="portfolio"/>
+    <file name="1a2f55660921955b0aceea854a1-1--u670-r-fr2.png" crc="239734813" ref="portfolio"/>
+    <file name="363cc0660897995b0ab9d5ec889-1--u735-fr2.jpg" crc="95540829" ref="portfolio"/>
+    <file name="363cc0660897995b0ab9d5ec889-1--u735-r-fr2.png" crc="351791777" ref="portfolio"/>
+    <file name="460ef0660915035b0ac8c72c679-1--u773-fr2.png" crc="4195794023" ref="portfolio"/>
+    <file name="460ef0660915035b0ac8c72c679-1--u773-r-fr2.png" crc="3850011677" ref="portfolio"/>
+    <file name="009365660907155b0ac12868d62-1--u685-fr2.png" crc="390055772" ref="portfolio"/>
+    <file name="009365660907155b0ac12868d62-1--u685-r-fr2.png" crc="3795659492" ref="portfolio"/>
+    <file name="3fed39660921955b0aceea8c6ca-1--u726-fr3.jpg" crc="4291689458" ref="portfolio"/>
+    <file name="3fed39660921955b0aceea8c6ca-1--u726-r-fr3.png" crc="197341823" ref="portfolio"/>
+    <file name="948d6f660921955b0aceea8b38e-1--u786-fr2.jpg" crc="4114726918" ref="portfolio"/>
+    <file name="948d6f660921955b0aceea8b38e-1--u786-r-fr2.png" crc="3874343323" ref="portfolio"/>
+    <file name="f03d10660915035b0ac8c72d2e8-1--u705-fr2.png" crc="221803122" ref="portfolio"/>
+    <file name="f03d10660915035b0ac8c72d2e8-1--u705-r-fr2.png" crc="479566460" ref="portfolio"/>
+    <file name="2be2c7660894095b0ab60cd8920-1--u700-fr2.png" crc="3960976675" ref="portfolio"/>
+    <file name="2be2c7660894095b0ab60cd8920-1--u700-r-fr2.png" crc="3896309856" ref="portfolio"/>
+    <file name="6d80ed660897995b0ab9d5ea9cc-1--u762-fr2.jpg" crc="3947429322" ref="portfolio"/>
+    <file name="6d80ed660897995b0ab9d5ea9cc-1--u762-r-fr2.png" crc="508881848" ref="portfolio"/>
+    <file name="2be2c7660894095b0ab60cd8920-1-.png" crc="3970370877" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="1a2f55660921955b0aceea854a1-1--u670-fr2.jpg" crc="4041239538" ref="portfolio"/>
+    <file name="1a2f55660921955b0aceea854a1-1--u670-r-fr3.png" crc="4073925890" ref="portfolio"/>
+    <file name="460ef0660915035b0ac8c72c679-1--u773-fr3.png" crc="362643265" ref="portfolio"/>
+    <file name="460ef0660915035b0ac8c72c679-1--u773-r-fr3.png" crc="139367499" ref="portfolio"/>
+    <file name="3fed39660921955b0aceea8c6ca-1--u726-fr4.jpg" crc="4113548190" ref="portfolio"/>
+    <file name="3fed39660921955b0aceea8c6ca-1--u726-r-fr4.png" crc="436120796" ref="portfolio"/>
+    <file name="363cc0660897995b0ab9d5ec889-1--u735-fr3.jpg" crc="3948579293" ref="portfolio"/>
+    <file name="363cc0660897995b0ab9d5ec889-1--u735-r-fr3.png" crc="55493349" ref="portfolio"/>
+    <file name="f03d10660915035b0ac8c72d2e8-1--u705-fr3.png" crc="467394715" ref="portfolio"/>
+    <file name="f03d10660915035b0ac8c72d2e8-1--u705-r-fr3.png" crc="3762394249" ref="portfolio"/>
+    <file name="009365660907155b0ac12868d62-1--u685-fr3.png" crc="4231401297" ref="portfolio"/>
+    <file name="009365660907155b0ac12868d62-1--u685-r-fr3.png" crc="4072426632" ref="portfolio"/>
+    <file name="2be2c7660894095b0ab60cd8920-1--u700-fr3.png" crc="3795616754" ref="portfolio"/>
+    <file name="2be2c7660894095b0ab60cd8920-1--u700-r-fr3.png" crc="485203907" ref="portfolio"/>
+    <file name="948d6f660921955b0aceea8b38e-1--u786-fr3.jpg" crc="3913316877" ref="portfolio"/>
+    <file name="948d6f660921955b0aceea8b38e-1--u786-r-fr3.png" crc="364254624" ref="portfolio"/>
+    <file name="6d80ed660897995b0ab9d5ea9cc-1--u762-fr3.jpg" crc="4277411387" ref="portfolio"/>
+    <file name="6d80ed660897995b0ab9d5ea9cc-1--u762-r-fr3.png" crc="4168454021" ref="portfolio"/>
+    <file name="linkedin black.png" crc="4075008956" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="facebook black.png" crc="4261736789" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="email black.png" crc="194727985" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="twitter black.png" crc="4186135794" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="linkedin black242x193.png" crc="473311085" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="facebook black242x193.png" crc="4126515346" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="email black242x193.png" crc="160002368" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="twitter black242x193.png" crc="4016615423" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="linkedin black169x135.png" crc="3944851495" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="facebook black169x135.png" crc="262144408" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="email black169x135.png" crc="4117458702" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="twitter black169x135.png" crc="4270611819" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="facebook black98x79.png" crc="4086397297" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="linkedin black98x79.png" crc="407806588" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="twitter black98x79.png" crc="177260672" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="email black98x79.png" crc="3968509440" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4189026843" seo="true" mt="1543413669538" redirect="true"/>
+  <file name="about.html" crc="3834977122" seo="true" mt="1543413849113" redirect="true"/>
+  <file name="portfolio.html" crc="349269276" seo="true" mt="1543413739257" redirect="true"/>
+  <file name="contact.html" crc="3965729827" seo="true" mt="1543413945390" redirect="true"/>
+</manifest>
